@@ -1,0 +1,127 @@
+Age,Gender,Education,JobTitle,Experience,Salary
+24,Male,Bachelors,Software Engineer,2,42000
+27,Female,Masters,Data Scientist,4,78000
+31,Male,Bachelors,Web Developer,5,62000
+45,Female,PhD,AI Researcher,15,152000
+22,Male,Bachelors,Intern,1,30000
+36,Female,Masters,Project Manager,10,97000
+41,Male,PhD,Architect,12,123000
+28,Female,Bachelors,QA Engineer,4,56000
+39,Male,Masters,DevOps Engineer,9,92000
+30,Female,Bachelors,UI Designer,5,61000
+26,Male,Bachelors,Software Engineer,3,48000
+34,Female,Masters,Data Analyst,7,82000
+29,Male,Bachelors,System Admin,4,58000
+38,Female,Masters,Product Manager,11,105000
+33,Male,Bachelors,Backend Developer,6,70000
+42,Female,PhD,AI Researcher,14,148000
+25,Male,Bachelors,Support Engineer,2,45000
+37,Female,Masters,Cloud Engineer,9,93000
+40,Male,Masters,DevOps Engineer,10,98000
+23,Female,Bachelors,Intern,1,32000
+44,Male,PhD,Architect,13,125000
+35,Female,Masters,HR Manager,8,85000
+32,Male,Bachelors,Frontend Developer,6,69000
+29,Female,Bachelors,QA Engineer,3,54000
+31,Male,Masters,Data Scientist,6,88000
+27,Female,Bachelors,UI Designer,4,59000
+36,Male,Masters,Project Manager,9,96000
+30,Female,Bachelors,Web Developer,5,63000
+28,Male,Bachelors,Software Engineer,4,52000
+33,Female,Masters,Data Analyst,7,81000
+41,Male,PhD,Security Architect,12,121000
+26,Female,Bachelors,Support Engineer,3,46000
+39,Male,Masters,Cloud Engineer,10,97000
+45,Female,PhD,AI Researcher,16,155000
+24,Male,Bachelors,Intern,1,31000
+38,Female,Masters,Product Manager,11,107000
+29,Male,Bachelors,System Admin,5,60000
+35,Female,Masters,HR Manager,8,86000
+42,Male,PhD,Architect,13,126000
+31,Female,Bachelors,QA Engineer,4,56000
+27,Male,Bachelors,Software Engineer,3,50000
+34,Female,Masters,Data Scientist,8,90000
+36,Male,Masters,DevOps Engineer,9,95000
+30,Female,Bachelors,UI Designer,5,62000
+28,Male,Bachelors,Backend Developer,4,58000
+33,Female,Masters,Cloud Engineer,7,87000
+41,Male,PhD,Security Architect,14,129000
+25,Female,Bachelors,Intern,1,30000
+37,Male,Masters,Project Manager,10,98000
+39,Female,Masters,Product Manager,11,106000
+32,Male,Bachelors,Frontend Developer,6,70000
+26,Female,Bachelors,Support Engineer,3,47000
+29,Male,Bachelors,System Admin,5,61000
+35,Female,Masters,HR Manager,8,88000
+44,Male,PhD,Architect,15,130000
+23,Female,Bachelors,Intern,1,31000
+31,Male,Masters,Data Analyst,6,82000
+28,Female,Bachelors,QA Engineer,4,57000
+40,Male,Masters,DevOps Engineer,10,99000
+36,Female,Masters,Cloud Engineer,9,94000
+27,Male,Bachelors,Software Engineer,3,51000
+34,Female,Masters,Data Scientist,7,89000
+42,Male,PhD,Security Architect,13,127000
+30,Female,Bachelors,Web Developer,5,64000
+25,Male,Bachelors,Support Engineer,2,46000
+38,Female,Masters,Product Manager,11,108000
+29,Male,Bachelors,System Admin,4,59000
+33,Female,Masters,Cloud Engineer,7,88000
+41,Male,PhD,AI Researcher,14,150000
+24,Female,Bachelors,Intern,1,30500
+37,Male,Masters,Project Manager,9,97000
+35,Female,Masters,HR Manager,8,87000
+32,Male,Bachelors,Frontend Developer,6,71000
+28,Female,Bachelors,QA Engineer,4,56500
+30,Male,Bachelors,Software Engineer,4,53000
+34,Female,Masters,Data Analyst,7,83000
+39,Male,Masters,DevOps Engineer,10,99500
+26,Female,Bachelors,Support Engineer,3,47500
+43,Male,PhD,Architect,14,128000
+27,Female,Bachelors,UI Designer,4,60000
+31,Male,Masters,Data Scientist,6,90000
+36,Female,Masters,Cloud Engineer,9,95000
+29,Male,Bachelors,System Admin,5,62000
+25,Female,Bachelors,Intern,1,31500
+38,Male,Masters,Product Manager,11,109000
+33,Female,Masters,Cloud Engineer,8,89000
+40,Male,Masters,DevOps Engineer,10,100000
+28,Female,Bachelors,QA Engineer,4,57500
+30,Male,Bachelors,Software Engineer,4,54000
+34,Female,Masters,Data Scientist,7,91000
+42,Male,PhD,Security Architect,13,131000
+26,Female,Bachelors,Support Engineer,3,48000
+37,Male,Masters,Project Manager,9,98000
+29,Female,Bachelors,UI Designer,5,63000
+31,Male,Masters,Data Analyst,6,84000
+45,Female,PhD,AI Researcher,16,158000
+23,Male,Bachelors,Intern,1,32000
+36,Female,Masters,Cloud Engineer,9,96000
+33,Male,Bachelors,Backend Developer,6,72000
+27,Female,Bachelors,QA Engineer,4,58500
+39,Male,Masters,DevOps Engineer,10,101000
+34,Female,Masters,Data Scientist,8,92000
+28,Male,Bachelors,Software Engineer,4,55000
+41,Female,PhD,Security Architect,14,132000
+30,Male,Bachelors,Web Developer,5,65000
+26,Female,Bachelors,Support Engineer,3,49000
+38,Male,Masters,Product Manager,11,110000
+32,Female,Bachelors,Frontend Developer,6,72000
+35,Male,Masters,HR Manager,8,90000
+29,Female,Bachelors,UI Designer,5,64000
+37,Male,Masters,Project Manager,10,100000
+31,Female,Masters,Data Analyst,7,85000
+44,Male,PhD,Architect,15,132000
+25,Female,Bachelors,Intern,1,32500
+36,Male,Masters,Cloud Engineer,9,97000
+33,Female,Masters,Cloud Engineer,8,90000
+28,Male,Bachelors,Software Engineer,4,56000
+40,Female,Masters,DevOps Engineer,10,102000
+27,Male,Bachelors,QA Engineer,4,59000
+34,Female,Masters,Data Scientist,8,93000
+42,Male,PhD,Security Architect,13,133000
+30,Female,Bachelors,Web Developer,5,66000
+26,Male,Bachelors,Support Engineer,3,50000
+38,Female,Masters,Product Manager,11,112000
+31,Male,Masters,Data Analyst,7,86000
+45,Female,PhD,AI Researcher,16,160000
