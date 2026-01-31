@@ -6,9 +6,15 @@ The pipeline reflects core data engineering stages: data ingestion, transformati
 
 Features
 • CSV data ingestion
+
 • Data preprocessing & label encoding
+
 • Feature engineering
+
 • Linear Regression model training
+
 • Model persistence using joblib
+
 • Real-time salary prediction
+
 • Modular pipeline structure
