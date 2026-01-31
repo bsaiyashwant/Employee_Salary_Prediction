@@ -5,6 +5,7 @@ This project implements an end-to-end Employee Salary Prediction Pipeline that d
 The pipeline reflects core data engineering stages: data ingestion, transformation (ETL), encoding of categorical features, model training, model storage, and inference. It is designed to be modular, easy to run, and extensible for future enhancements such as UI integration or deployment.
 
 Features
+
 • CSV data ingestion
 
 • Data preprocessing & label encoding
